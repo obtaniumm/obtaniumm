@@ -1,4 +1,6 @@
 # hey, i'm nh_
-- html/css solo dev
+- creator of @NullLinux
+- html/css dev
 - line riderer
 - operating system enthusiast (i use arch btw)
+- contributed to linux exactly 0 times
