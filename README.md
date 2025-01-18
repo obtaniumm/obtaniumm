@@ -1,5 +1,5 @@
 # hey, i'm nh_
-- creator of @NullLinux
+- creator of [NullLinux](https://github.com/NullLinux).
 - professional hyprland user
 - html/css dev
 - line riderer
