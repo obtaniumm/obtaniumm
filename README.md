@@ -23,3 +23,6 @@ hobbies:
     "Hypixel Bedwars and osu!mania,"
   ]
 ```
+# stuff i use a lot
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original-wordmark.svg" width="45" height="45"/>
