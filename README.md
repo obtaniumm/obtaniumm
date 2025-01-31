@@ -30,3 +30,5 @@ hobbies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100" height="100"/>
 
+# github stats
+[![nonxistnt's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonxistnt)](https://github.com/anuraghazra/github-readme-stats)
