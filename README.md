@@ -4,19 +4,19 @@
 <h2>about me:</h2>
 
 ```yaml
-what_im_working_on
+what_im_working_on:
   [
     "NullLinux,"
     "Line Rider Tracks,"
     "Grinding Hypixel Bedwars and osu!mania,"
   ]
-fun_facts
+fun_facts:
   [
     "I use Arch Linux,"
     "I'm a terminal nerd,"
     "I love to rice my system,"
   ]
-hobbies
+hobbies:
   [
     "Programming in Bash, HTML, and CSS,"
     "Skateboarding,"
